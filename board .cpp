@@ -1,4 +1,4 @@
-#include "board.h"
+#include "hangman_board.h"
 #include <iostream>
 #include <string>
 #include <array>
