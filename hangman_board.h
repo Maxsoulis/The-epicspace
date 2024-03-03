@@ -1,5 +1,5 @@
-#ifndef BOARD_H
-#define BOARD_H
+#ifndef HANGMAN_BOARD_H
+#define HANGMAN_BOARD_H
 
 void create_board(int incorrect_guess);
 
