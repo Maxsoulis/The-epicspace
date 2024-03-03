@@ -14,7 +14,7 @@ int main(){
   system("clear");
   srand((unsigned) time(NULL));
   std::ifstream input;    
-  input.open("common_words.txt");
+  input.open("hangman_words.txt");
   std::string word;
   //Chooses a word from the file
   int line = rand() % 988;
