@@ -2,7 +2,7 @@
 #include <string>
 #include <fstream>
 #include <vector>
-#include "board.h"
+#include "hangman_board.h"
 using std::ifstream;
 using std::string;
 using std::cout;
